@@ -34,3 +34,4 @@ C:\Users\LENOVO\source\repos\WeCare\obj\Debug\net8.0\refint\WeCare.dll
 C:\Users\LENOVO\source\repos\WeCare\obj\Debug\net8.0\WeCare.pdb
 C:\Users\LENOVO\source\repos\WeCare\obj\Debug\net8.0\WeCare.genruntimeconfig.cache
 C:\Users\LENOVO\source\repos\WeCare\obj\Debug\net8.0\ref\WeCare.dll
+C:\Users\LENOVO\source\repos\WeCare\obj\Debug\net8.0\WeCare.sourcelink.json

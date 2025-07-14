@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "WeCare.Controllers.WeatherForecastController",
+    "ContainingType": "WeCare.Domain.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
     "HttpMethod": "GET",
