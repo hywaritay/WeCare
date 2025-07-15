@@ -1,43 +1,183 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\WeCare\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|c:\\users\\hywar\\desktop\\waritay\\wecare\\domain\\infrastructure\\entity\\twofactorauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|solutionrelative:domain\\infrastructure\\entity\\twofactorauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|c:\\users\\hywar\\desktop\\waritay\\wecare\\domain\\core\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|solutionrelative:domain\\core\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|c:\\users\\hywar\\desktop\\waritay\\wecare\\domain\\controllers\\security\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|solutionrelative:domain\\controllers\\security\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|c:\\users\\hywar\\desktop\\waritay\\wecare\\domain\\infrastructure\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|solutionrelative:domain\\infrastructure\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|c:\\users\\hywar\\desktop\\waritay\\wecare\\domain\\core\\dto\\facilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|solutionrelative:domain\\core\\dto\\facilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|c:\\users\\hywar\\desktop\\waritay\\wecare\\domain\\core\\dto\\childdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|solutionrelative:domain\\core\\dto\\childdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|c:\\users\\hywar\\desktop\\waritay\\wecare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|c:\\users\\hywar\\desktop\\waritay\\wecare\\domain\\core\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|solutionrelative:domain\\core\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|c:\\users\\hywar\\desktop\\waritay\\wecare\\domain\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|solutionrelative:domain\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|c:\\users\\hywar\\desktop\\waritay\\wecare\\migrations\\20250715113528_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F6B21A-2A58-4AC6-A03B-2FAD10D22648}|WeCare.csproj|solutionrelative:migrations\\20250715113528_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 243,
-          "SelectedChildIndex": -1,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TwoFactorAuth.cs",
+              "DocumentMoniker": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Infrastructure\\Entity\\TwoFactorAuth.cs",
+              "RelativeDocumentMoniker": "Domain\\Infrastructure\\Entity\\TwoFactorAuth.cs",
+              "ToolTip": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Infrastructure\\Entity\\TwoFactorAuth.cs",
+              "RelativeToolTip": "Domain\\Infrastructure\\Entity\\TwoFactorAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:46:24.333Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Core\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Domain\\Core\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Core\\Service\\AuthService.cs",
+              "RelativeToolTip": "Domain\\Core\\Service\\AuthService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwDwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:45:50.053Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Controllers\\Security\\AuthController.cs",
+              "RelativeDocumentMoniker": "Domain\\Controllers\\Security\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Controllers\\Security\\AuthController.cs",
+              "RelativeToolTip": "Domain\\Controllers\\Security\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:43:51.322Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacilityDto.cs",
+              "DocumentMoniker": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Core\\Dto\\FacilityDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Core\\Dto\\FacilityDto.cs",
+              "ToolTip": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Core\\Dto\\FacilityDto.cs",
+              "RelativeToolTip": "Domain\\Core\\Dto\\FacilityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:43:39.142Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChildDto.cs",
+              "DocumentMoniker": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Core\\Dto\\ChildDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Core\\Dto\\ChildDto.cs",
+              "ToolTip": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Core\\Dto\\ChildDto.cs",
+              "RelativeToolTip": "Domain\\Core\\Dto\\ChildDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:43:33.143Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Infrastructure\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Infrastructure\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Infrastructure\\Entity\\User.cs",
+              "RelativeToolTip": "Domain\\Infrastructure\\Entity\\User.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:42:54.752Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T11:36:22.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250715113528_initial-migration.cs",
+              "DocumentMoniker": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Migrations\\20250715113528_initial-migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250715113528_initial-migration.cs",
+              "ToolTip": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Migrations\\20250715113528_initial-migration.cs",
+              "RelativeToolTip": "Migrations\\20250715113528_initial-migration.cs",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T11:35:29.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Core\\Service\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Domain\\Core\\Service\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Core\\Service\\AppointmentService.cs",
+              "RelativeToolTip": "Domain\\Core\\Service\\AppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T11:04:32.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Domain\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\hywar\\Desktop\\waritay\\WeCare\\Domain\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Domain\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T11:03:13.452Z"
             }
           ]
         }
